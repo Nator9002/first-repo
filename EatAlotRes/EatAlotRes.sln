@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EatAlotRes", "EatAlotRes.vbproj", "{DA44FFDF-FCFA-4EBD-9EE4-54AF71F847FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA44FFDF-FCFA-4EBD-9EE4-54AF71F847FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA44FFDF-FCFA-4EBD-9EE4-54AF71F847FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA44FFDF-FCFA-4EBD-9EE4-54AF71F847FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA44FFDF-FCFA-4EBD-9EE4-54AF71F847FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C2AE10-5E2A-47A9-AD73-CF2B0247C4A0}
+	EndGlobalSection
+EndGlobal

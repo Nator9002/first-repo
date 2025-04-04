@@ -1,0 +1,17 @@
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\bin\Debug\net8.0-windows\EatAlotRes.exe
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\bin\Debug\net8.0-windows\EatAlotRes.deps.json
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\bin\Debug\net8.0-windows\EatAlotRes.runtimeconfig.json
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\bin\Debug\net8.0-windows\EatAlotRes.dll
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\bin\Debug\net8.0-windows\EatAlotRes.pdb
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.Form1.resources
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.Resources.resources
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.vbproj.GenerateResource.cache
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.AssemblyInfo.vb
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.vbproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.dll
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\refint\EatAlotRes.dll
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.pdb
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\EatAlotRes.genruntimeconfig.cache
+C:\Users\Jack\Documents\KevinPython\EatAlotRes\obj\Debug\net8.0-windows\ref\EatAlotRes.dll
