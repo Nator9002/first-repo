@@ -1,0 +1,16 @@
+C:\Users\Jack\Documents\KevinPython\IncomeTax\bin\Debug\net8.0-windows\IncomeTax.exe
+C:\Users\Jack\Documents\KevinPython\IncomeTax\bin\Debug\net8.0-windows\IncomeTax.deps.json
+C:\Users\Jack\Documents\KevinPython\IncomeTax\bin\Debug\net8.0-windows\IncomeTax.runtimeconfig.json
+C:\Users\Jack\Documents\KevinPython\IncomeTax\bin\Debug\net8.0-windows\IncomeTax.dll
+C:\Users\Jack\Documents\KevinPython\IncomeTax\bin\Debug\net8.0-windows\IncomeTax.pdb
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.Form1.resources
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.vbproj.GenerateResource.cache
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.AssemblyInfo.vb
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.vbproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.dll
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\refint\IncomeTax.dll
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.pdb
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\IncomeTax.genruntimeconfig.cache
+C:\Users\Jack\Documents\KevinPython\IncomeTax\obj\Debug\net8.0-windows\ref\IncomeTax.dll
